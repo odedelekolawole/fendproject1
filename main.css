@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+    margin: 0;
+}
+p{
+    font-size: 40px;
+    color: blue;
+    font-family: Verdana;
+    text-align: center;
+}
